@@ -1,4 +1,4 @@
-package com.example.batch.cafe;
+package com.example.batch.tasklet.cafe;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.batch.core.job.Job;
